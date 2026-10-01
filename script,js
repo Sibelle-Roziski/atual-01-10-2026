@@ -1,0 +1,7 @@
+function mostrarMensagem() {
+
+    const mensagem = document.getElementById("mensagem");
+
+    mensagem.textContent =
+        "💡 Você sabia? A primeira página da internet foi criada em 1991!";
+}
